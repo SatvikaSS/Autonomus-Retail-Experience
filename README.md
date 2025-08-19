@@ -104,4 +104,6 @@ streamlit run app.py
 - [gTTS](https://pypi.org/project/gTTS/)
 
 ---
+# Restricted Dataset: Personal Images
 
+**WARNING:** This dataset contains personal images of individuals and is strictly for private, non-commercial use within this project only. Unauthorized use, distribution, or reproduction of these images is prohibited.
